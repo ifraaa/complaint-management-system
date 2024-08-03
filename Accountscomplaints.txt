@@ -1,0 +1,4 @@
+3921;2023-8-2;Assigned;Issues with vendor payment processing;9316:6543:0,3491:0,9821:0,5678:0;2023-8-3
+7654;2023-9-8;Assigned;Reimbursement requests not processed;7150:8392:1,1275:1;2023-9-9
+1024;2023-10-20;Resolved;Errors in student tuition fee invoices;1269:6543:1,5962:1;2023-10-21
+1789;2023-12-5;Closed;Discrepancies in departmental budget report;2597:5678:1,2845:1,5962:1;2023-12-6

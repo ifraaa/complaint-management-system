@@ -1,0 +1,7 @@
+7890;2023-8-2;New;Network connectivity problems in the computer lab;9316
+8901;2023-8-3;New;Network connectivity problems in the computer lab;2597
+4567;2023-9-8;Assigned;Issues with projector during a presentation;7150:9271:1,6573:1,2387:0;2023-9-9
+1298;2023-10-20;New;Class scheduling conflicts reported by students;8142
+2045;2023-12-5;New;Students reported Wi-Fi issues in an online class;2597
+7465;2023-12-7;New;ethernet;1487
+2309;2023-12-7;Resolved;ethernet issues;7150:9271:1,3367:1;2023-12-7
